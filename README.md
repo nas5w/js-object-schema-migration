@@ -1,6 +1,6 @@
 # JavaScript Object Schema Migration
 
-This repository accompanies the blog post, [An Approach to JavaScript Object Schema Migration](https://typeofnan.dev/an-approach-to-js-object-schema-migration/).
+This repository accompanies the blog post [An Approach to JavaScript Object Schema Migration](https://typeofnan.dev/an-approach-to-js-object-schema-migration/).
 
 ## Introduction
 
